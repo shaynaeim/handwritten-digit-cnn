@@ -11,10 +11,8 @@ The MNIST dataset contains **70,000 grayscale images** of handwritten digits (0â
 This project demonstrates how to:
 - Build a CNN architecture from scratch with PyTorch  
 - Train the model using gradient descent and backpropagation  
-- Evaluate its accuracy and visualize predictions  
-
-This project is ideal for those learning **deep learning fundamentals** and how to implement neural networks step-by-step.
-
+- Evaluate its accuracy and visualize predictions
+- 
 ---
 
 ## ðŸ§© Technologies Used
